@@ -1,6 +1,6 @@
 # BuyThisFromMe v1
 ## Description
-Buythisfromme makes buying and selling items online quick and easy, simply tweet the item you want to sell and include our hashtag in the tweet, and your tweet will be added to our database where it can featured and come up in near buy consumers' search results.
+Buythisfromme makes buying and selling items online quick and easy, simply tweet the item you want to sell and include our hashtag in the tweet, and your tweet will be added to our database where it can featured and come up in near by consumers' search results.
 
 ## Installation
 * Clone this Repo
